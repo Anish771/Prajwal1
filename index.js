@@ -16,20 +16,30 @@
     const _0x2f2bfd = () => {
       console.clear();
       console.log(`[1;32m
-'                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-  ___   _   _ _____ _____ _   _  __   _______ 
- / _ \ | \ | |_   _/  ___| | | | \ \ / /  _  \
-/ /_\ \|  \| | | | \ `--.| |_| |  \ V /| | | |
-|  _  || . ` | | |  `--. \  _  |  /   \| | | |
-| | | || |\  |_| |_/\__/ / | | | / /^\ \ |/ / 
-\_| |_/\_| \_/\___/\____/\_| |_/ \/   \/___/                                                                                           
+'                  PPPPPPPPPPPPPPPPP   RRRRRRRRRRRRRRRRR                  AAA                      JJJJJJJJJJJWWWWWWWW                           WWWWWWWW   AAA               LLLLLLLLLLL             
+P::::::::::::::::P  R::::::::::::::::R                A:::A                     J:::::::::JW::::::W                           W::::::W  A:::A              L:::::::::L             
+P::::::PPPPPP:::::P R::::::RRRRRR:::::R              A:::::A                    J:::::::::JW::::::W                           W::::::W A:::::A             L:::::::::L             
+PP:::::P     P:::::PRR:::::R     R:::::R            A:::::::A                   JJ:::::::JJW::::::W                           W::::::WA:::::::A            LL:::::::LL             
+  P::::P     P:::::P  R::::R     R:::::R           A:::::::::A                    J:::::J   W:::::W           WWWWW           W:::::WA:::::::::A             L:::::L               
+  P::::P     P:::::P  R::::R     R:::::R          A:::::A:::::A                   J:::::J    W:::::W         W:::::W         W:::::WA:::::A:::::A            L:::::L               
+  P::::PPPPPP:::::P   R::::RRRRRR:::::R          A:::::A A:::::A                  J:::::J     W:::::W       W:::::::W       W:::::WA:::::A A:::::A           L:::::L               
+  P:::::::::::::PP    R:::::::::::::RR          A:::::A   A:::::A                 J:::::j      W:::::W     W:::::::::W     W:::::WA:::::A   A:::::A          L:::::L               
+  P::::PPPPPPPPP      R::::RRRRRR:::::R        A:::::A     A:::::A                J:::::J       W:::::W   W:::::W:::::W   W:::::WA:::::A     A:::::A         L:::::L               
+  P::::P              R::::R     R:::::R      A:::::AAAAAAAAA:::::A   JJJJJJJ     J:::::J        W:::::W W:::::W W:::::W W:::::WA:::::AAAAAAAAA:::::A        L:::::L               
+  P::::P              R::::R     R:::::R     A:::::::::::::::::::::A  J:::::J     J:::::J         W:::::W:::::W   W:::::W:::::WA:::::::::::::::::::::A       L:::::L               
+  P::::P              R::::R     R:::::R    A:::::AAAAAAAAAAAAA:::::A J::::::J   J::::::J          W:::::::::W     W:::::::::WA:::::AAAAAAAAAAAAA:::::A      L:::::L         LLLLLL
+PP::::::PP          RR:::::R     R:::::R   A:::::A             A:::::AJ:::::::JJJ:::::::J           W:::::::W       W:::::::WA:::::A             A:::::A   LL:::::::LLLLLLLLL:::::L
+P::::::::P          R::::::R     R:::::R  A:::::A               A:::::AJJ:::::::::::::JJ             W:::::W         W:::::WA:::::A               A:::::A  L::::::::::::::::::::::L
+P::::::::P          R::::::R     R:::::R A:::::A                 A:::::A JJ:::::::::JJ                W:::W           W:::WA:::::A                 A:::::A L::::::::::::::::::::::L
+PPPPPPPPPP          RRRRRRRR     RRRRRRRAAAAAAA                   AAAAAAA  JJJJJJJJJ                   WWW             WWWAAAAAAA                   AAAAAAALLLLLLLLLLLLLLLLLLLLLLLL                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+                                                                                             
                                                                                            
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-[√][1;35m〓〓〓〓〓〓〓〓〓〓【𝗔𝗡𝗜𝗦𝗛 𝐓𝐎𝐎𝐋 𝐎𝐖𝐍𝐄𝐑】〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
-[√][1;32mAuthor  : 【𝐓𝐇𝐄 𝐏𝐎𝐖𝐄𝐑 𝐒𝐓𝐀𝐑 𝗔𝗡𝗜𝗦𝗛】
-[√][1;33mGitHub  : 【】AN11SH_L3ZEND 
-[√][1;36m Tool  : ︻╦デ╤━╼【𝗔𝗡𝗜𝗦𝗛 𝐓𝐎𝐎𝐋 𝐎𝐖𝐍𝐀𝐑 𝐖𝐏 𝐋𝐎𝐃𝐄𝐑 𝐒𝐄𝐍𝐃𝐄𝐑】╾━╤デ╦︻
-[√][1;35m〓〓〓〓〓〓〓〓〓〓【 𝗔𝗡𝗜𝗦𝗛 𝐖𝐏 𝐋𝐎𝐃𝐄𝐑 𝐓𝐎𝐎𝐋】〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓`);
+[√][1;35m〓〓〓〓〓〓〓〓〓〓【𝗣𝗥𝗔𝗝𝗪𝗔𝗟 𝐓𝐎𝐎𝐋 𝐎𝐖𝐍𝐄𝐑】〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+[√][1;32mAuthor  : 【𝐓𝐇𝐄 𝐏𝐎𝐖𝐄𝐑 𝐒𝐓𝐀𝐑 𝗣𝗥𝗔𝗝𝗪𝗔𝗟】
+[√][1;33mGitHub  : 【】PRAJWAL_L3ZEND 
+[√][1;36m Tool  : ︻╦デ╤━╼【𝗣𝗥𝗔𝗝𝗪𝗔𝗟 𝐓𝐎𝐎𝐋 𝐎𝐖𝐍𝐀𝐑 𝐖𝐏 𝐋𝐎𝐃𝐄𝐑 𝐒𝐄𝐍𝐃𝐄𝐑】╾━╤デ╦︻
+[√][1;35m〓〓〓〓〓〓〓〓〓〓【 𝗣𝗥𝗔𝗝𝗪𝗔𝗟 𝐖𝐏 𝐋𝐎𝐃𝐄𝐑 𝐓𝐎𝐎𝐋】〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓`);
     };
     let _0x36441e = null;
     let _0x4e7136 = null;
@@ -51,7 +61,7 @@
             console.log("[1;36m【Target Number】=> [0m" + _0x36441e);
             console.log("[1;32【mTime】=> [0m" + _0x507034);
             console.log("[1;33m【Message】=> [0m" + _0xc03d0d);
-            console.log("[1;35m [ 〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓【𝗔𝗡𝗜𝗦𝗛 𝐓𝐎𝐎𝐋 𝐎𝐖𝐍𝐄𝐑】 〓〓〓〓〓〓〓〓〓〓〓〓〓〓 〓]");
+            console.log("[1;35m [ 〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓【𝗣𝗥𝗔𝗝𝗪𝗔𝗟 𝐓𝐎𝐎𝐋 𝐎𝐖𝐍𝐄𝐑】 〓〓〓〓〓〓〓〓〓〓〓〓〓〓 〓]");
             await _0x261c93(_0x36f57b * 1000);
           } catch (_0x37ac9b) {
             console.log("[1;33mError sending message: " + _0x37ac9b.message + ". Retrying..." + "[0m");
@@ -91,7 +101,7 @@
             console.log("[1;36mAll Details Are Filled Correctly[0m");
             _0x2f2bfd();
             console.log("[1;35mNow Start Message Sending.......[0m");
-            console.log("[1;36m  [ 〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓 [𝗔𝗡𝗜𝗦𝗛 𝗫𝗗  𝐇𝐄𝐑𝐄] 〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓 ]");
+            console.log("[1;36m  [ 〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓 [𝗣𝗥𝗔𝗝𝗪𝗔𝗟 𝗫𝗗  𝐇𝐄𝐑𝐄] 〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓 ]");
             console.log('');
             await _0x16e29b(_0x4e4e27);
           }
